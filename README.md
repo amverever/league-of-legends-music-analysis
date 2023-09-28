@@ -1,2 +1,10 @@
-# League of Legends Music: How does music help the game to succeed?
-How does Enemy help the game and the artist to remain a success?
+# League of Legends Music Analysis
+How does Music help the game to succeed?
+
+
+The steps for data analysis:
+* Data Collection: Web scraping
+* Data Manipulation: Python
+* Data Preprocessing: SQL
+* Data Processing: Python using SQL connector
+* Data Visualisation: Python using Matplotlib
